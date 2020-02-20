@@ -17,4 +17,4 @@
 <br>*Make sure your repository is not private.
 
 # 𝟑. ***SET UP YOUR VSCODE (CODING ENVIRONMENT)***
-<br> a. Make a folder where you want to store your code. Name it something recognizable like your intended site name. I named mine `workspace-1`
+a. Make a folder where you want to store your code. Name it something recognizable like your intended site name. I named mine `workspace-1`
