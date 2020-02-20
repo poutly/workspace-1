@@ -1,4 +1,5 @@
 𝟏. ***INSTALL***
+<br>
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 *Note: You can install the latest versions from these sites, or the ones I currently use that work for me. 
 *PC, Windows x64.
