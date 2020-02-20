@@ -17,4 +17,14 @@
 <br>*Make sure your repository is not private.
 
 # 𝟑. ***SET UP YOUR VSCODE (CODING ENVIRONMENT)***
-<br> a. Make a folder where you want to store your code. Name it something recognizable like your intended site name. I named mine `workspace-1`
+a. Make a folder where you want to store your code. Name it something recognizable like your intended site name. I named mine `workspace-1`
+<br><img src="https://i.imgur.com/VXSiEUi.png" width="500">
+<br>b. Open the folder in VSCode.
+<br><img src="https://i.imgur.com/YnSo4Uj.png" width="500">
+<br>c. Make a new folder within your workspace. For example, *content*
+<br><img src="https://i.imgur.com/lXvMVTL.png">
+<br>d. Make a `index.html` within your content folder. In your new file, type something like: 
+```If you see this message, VSCode is connected to the Heroku app!```
+<br>*The index page is the main page. It would be what you see first when you type in your url. *For example, https://example.com*
+<br>*Other pages would be named differently such as `page2.php`, and to get to it you'd need to put https://example.com/page2
+<br><img src="https://i.imgur.com/a8jSXyZ.png">
