@@ -4,3 +4,15 @@
 <br><https://devcenter.heroku.com/articles/heroku-cli>
 <br><https://git-scm.com/downloads>
 <br><https://code.visualstudio.com/insiders/>
+
+⠀
+# 𝟐. ***MAKE ACCOUNTS /APP/REPOSITORY***
+<br>- <https://signup.heroku.com/> (Web hosting)
+<br>- <https://github.com/join> (Backup Storage)
+<br>- <https://www.name.com/account/create/>* (Custom URL, optional, $)
+<br>- <https://freenom.com/> (free URL, shady)
+<br>*Make Freenom OR Name.com. Pick one.
+
+a. Make a new heroku app. <https://dashboard.heroku.com/apps>
+b. Make a new github repository at <https://github.com/new> 
+*Make sure your repository is not private.
