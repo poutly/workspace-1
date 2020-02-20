@@ -5,7 +5,6 @@
 <br>- <https://git-scm.com/downloads>
 <br>- <https://code.visualstudio.com/insiders/>
 
-⠀
 # 𝟐. ***MAKE ACCOUNTS /APP/REPOSITORY***
 <br>- <https://signup.heroku.com/> (Web hosting)
 <br>- <https://github.com/join> (Backup Storage)
@@ -13,6 +12,9 @@
 <br>- <https://freenom.com/> (free URL, shady)
 <br>*Make Freenom OR Name.com. Pick one.
 
-<br>a. Make a new heroku app. <https://dashboard.heroku.com/apps>
+<br>a. Make a new heroku app at <https://dashboard.heroku.com/apps>
 <br>b. Make a new github repository at <https://github.com/new> 
 <br>*Make sure your repository is not private.
+
+# 𝟑. ***SET UP YOUR VSCODE (CODING ENVIRONMENT)***
+<br> a. Make a folder where you want to store your code. Name it something recognizable like your intended site name. I named mine `workspace-1`
