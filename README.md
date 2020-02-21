@@ -75,3 +75,27 @@ You need to connect the repository to your VSCode bash by inputting:
 <br>*If you try to push but it gives you this error, input:
 <br>```$ git pull origin master --allow-unrelated-histories```
 <br><img src="https://i.imgur.com/mqP6hNk.png" width="500">
+
+# 𝟕. ***DOMAIN STUFF***
+a. Firstly, choose a domain. Personally I use <https://name.com/> to host my domain. 
+<br>*For a free domain, I use http://www.freenom.com/en/index.html. Freenom IS shady so use a completely fake name, address, and VPN if you use it. DO NOT buy from them.
+
+# 𝟖. ***CONNECTING DOMAIN SITE TO HEROKU***
+a. Go to <https://dashboard.heroku.com/apps/workspace3/settings>
+to add your domain. Type out the full domain WITHOUT `http://` or `https://`. 
+<br>You need to generate 2 codes with two variations of your domain. One with `www.` and one without.
+<br>For example, your domain `example.com` would be input as `example.com` and `www.example.com`
+<br>Pre-Req. needs a valid credit card to add domains, no money needed.
+<br><img src="https://i.imgur.com/iJ8Jau6.png" width="500">
+<br>Now go to your domain site. Make sure your ANAME matches with your BARE url. 
+<br>CNAME matches with your `www.` url.
+<br><img src="https://i.imgur.com/MSenY4l.png" width="500">
+
+# 𝟗. ***BEAUTIFY THE DOMAIN***
+a. Go here: https://drive.google.com/open?id=1ILHlE6mLIBin2MqDfeg2IuBxULrrsF26 and an .htaccess file has been made. 
+<br>Drop this into your workspace.
+<br>
+<br>b. Replace `unrancid` and your `.com` to your personal domain that you own. There is 2 lines that you have to substitute. If you need to, CTRL+F to find all the needed substitutes.
+<br>*DO NOT touch ANYTHING else.
+<br>**For example**, if my domain were http://example.com/, it would look like this:
+<br><img src="https://i.imgur.com/d05iFcy.png" width="500">
