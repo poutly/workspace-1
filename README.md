@@ -70,7 +70,7 @@ a. Go to <https://dashboard.heroku.com/apps/workspace-1/deploy/github>. Replace 
 
 # 𝟔. ***PUSHING TO GITHUB***
 You need to connect the repository to your VSCode bash by inputting:
-<br>```$ git remote add origin https://github.com/unrancid/workspace3.git```
+<br>```$ git remote add origin https://github.com/unrancid/workspace-1.git```
 <br>```$ git push -u origin master```
 <br>*If you try to push but it gives you this error, input:
 <br>```$ git pull origin master --allow-unrelated-histories```
