@@ -81,7 +81,7 @@ a. Firstly, choose a domain. Personally I use <https://name.com/> to host my dom
 <br>*For a free domain, I use http://www.freenom.com/en/index.html. Freenom IS shady so use a completely fake name, address, and VPN if you use it. DO NOT buy from them.
 
 # 𝟖. ***CONNECTING DOMAIN SITE TO HEROKU***
-a. Go to <https://dashboard.heroku.com/apps/workspace3/settings>
+a. Go to <https://dashboard.heroku.com/apps/workspace-1/settings>
 to add your domain. Type out the full domain WITHOUT `http://` or `https://`. 
 <br>You need to generate 2 codes with two variations of your domain. One with `www.` and one without.
 <br>For example, your domain `example.com` would be input as `example.com` and `www.example.com`
