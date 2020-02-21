@@ -76,7 +76,7 @@ You need to connect the repository to your VSCode bash by inputting:
 <br>```$ git pull origin master --allow-unrelated-histories```
 <br><img src="https://i.imgur.com/mqP6hNk.png" width="500">
 
-# 𝟕. ***DOMAIN STUFF***
+# 𝟕. ***DOMAIN***
 a. Firstly, choose a domain. Personally I use <https://name.com/> to host my domain. 
 <br>*For a free domain, I use http://www.freenom.com/en/index.html. Freenom IS shady so use a completely fake name, address, and VPN if you use it. DO NOT buy from them.
 
