@@ -42,6 +42,14 @@ a. Make a folder where you want to store your code. Name it something recognizab
 <br>
 <br>f. Now go to your terminal bash.
 <br><img src="https://i.imgur.com/MSOeluZ.png" width="500">
+<br>
+<br>g. Set up your git bash terminal.
+<br>- Open Visual Studio Code and press and hold Ctrl + ` to open the terminal.
+<br>- Open the command palette using Ctrl + Shift + P .
+<br>- Type - Select Default Shell.
+<br>- Select Git Bash from the options.
+<br>- Click on the + icon in the terminal window.
+<br>- The new terminal now will be a Git Bash terminal.
 
 # 𝟒. ***SETTING UP HEROKU***
 a. Log into Heroku within VSCode by typing this into the bash: ```heroku login```
